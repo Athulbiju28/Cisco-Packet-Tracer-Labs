@@ -1,0 +1,1 @@
+A comprehensive networking project demonstrating the configuration, implementation, and verification of static routing across a multi-router topology. This project illustrates how to manually configure routing tables to establish reliable, predictable network paths without the overhead of dynamic routing protocols.
