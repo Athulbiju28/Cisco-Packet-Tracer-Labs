@@ -1,1 +1,1 @@
-
+This project demonstrates the transition from a manual static routing architecture to a classless dynamic network environment using RIPv2 (Routing Information Protocol version 2). By configuring version 2 and disabling automatic summarization (no auto-summary), the routers automatically discover paths and share routing tables while fully supporting classless IP addressing and VLSM. This setup eliminates the manual overhead of static routes, prevents routing loops, and uses efficient multicast updates to ensure reliable, dynamic connectivity across the network topology.
